@@ -1,1 +1,2 @@
-mission: updated by Developer D
+mission: Developed by Developer C and Developer D
+
